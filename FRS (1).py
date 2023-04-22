@@ -27,11 +27,19 @@ print("")
 with open("number.txt") as integers_file:
         integers_num = [int(num) for num in integers_file for num in integers_file.read().split()]
   # Check if even
-even = [num for num in integers_num if num % 2 == 0]
+even_numbers = [num for num in integers_num if num % 2 == 0]
   # Write in even.txt
 with open("even.txt", "a") as even_file:
-      even_file.write("\n".join(str(num) for num in even))
-        # Check if odd
-        # Write in odd. txt
+      even_file.write("\n".join(str(num) for num in even_numbers))
+  # Check if odd
+odd_numbers = [num for num in integers_num if num % 2 == 1]
+  # Write in odd. txt
+with open("odd.txt", "a") as odd_file:
+      odd_file.write("\n".join(str(num) for num in odd_numbers))
 
-#g
+#Good Bye
+good_bye = Figlet(font = "bubble")
+print(colored(ou_tro.renderText("Thank you for availing our service!"), "yellow")) 
+closing = Figlet(font = "isometric3")
+print(colored(closing.renderText("Closing..."), "white"))
+print("\U0001F971" * 45)
