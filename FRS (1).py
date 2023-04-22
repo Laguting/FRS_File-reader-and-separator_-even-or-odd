@@ -23,17 +23,15 @@ for i in tqdm (range (100), desc="Starting..."):
     pass
 print("")
 
-def process():
-   # Open the file and read number.txt then append even.txt and odd.txt
-   with open("number.txt") as integers_file, open("even.txt", "a") as even_file, open("odd.txt", "a") as odd_file:
-      for line in integers_file:
-        integers_num = int(line)
-        # Check if even
-        if integers_num % 2 == 0:
-            even = integers_num
-            even_file.write(str(even)+ "\n")
-# Check if even
-# Write in even.txt
-# Check if odd
-# Write in odd. txt
-process()
+# Open the file and read number.txt then append even.txt and odd.txt
+with open("number.txt") as integers_file:
+        integers_num = [int(num) for num in integers_file for num in integers_file.read().split()]
+  # Check if even
+even = [num for num in integers_num if num % 2 == 0]
+  # Write in even.txt
+with open("even.txt", "a") as even_file:
+      even_file.write("\n".join(str(num) for num in even))
+        # Check if odd
+        # Write in odd. txt
+
+#g
