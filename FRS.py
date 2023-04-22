@@ -11,7 +11,15 @@ print("\33[7m-+°\33[0m" * 45)
 print(colored(ti_tle.renderText("WELCOME !"), "yellow"))
 print("\33[7m-+°\33[0m" * 45)
 
-# Introduce FRS 
+# Introduce FRS
+# Starting loading 
+print("")
+from tqdm import tqdm 
+import time
+for i in tqdm (range (100), desc="Loading..."):
+    time.sleep(0.05)
+    pass
+
 def process ():
 # Open the file and read number.txt then append even.txt and odd.txt
  with open("number.txt") as integers_file, open("even.txt", "a") as even_file, open("odd.txt", "a") as odd_file:
