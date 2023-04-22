@@ -12,13 +12,16 @@ print(colored(ti_tle.renderText("WELCOME !"), "yellow"))
 print("\33[7m-+°\33[0m" * 45)
 
 # Introduce FRS
+file_reader_seperator = "\n\n\33[34m\33[1m'This program will help read a file containing an integers and separate the even from odd numbers.'\33[0m"
+print(file_reader_seperator)
 # Starting loading 
 print("")
 from tqdm import tqdm 
 import time
-for i in tqdm (range (100), desc="Loading..."):
+for i in tqdm (range (100), desc="Starting..."):
     time.sleep(0.05)
     pass
+print("")
 
 def process ():
 # Open the file and read number.txt then append even.txt and odd.txt
