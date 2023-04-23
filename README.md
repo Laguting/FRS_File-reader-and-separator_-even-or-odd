@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/129570700/233840895-4d7c1166-f942-4966
 - The program has a loading *bar feature* to initiate the program.
 - Uses **pyfiglet**, **termcolor**, and **tqdm**
 
-## How to run in IDE
+## How to run in IDE 👩🏻‍💻?
 1. Copy the code to your preferred IDE.
 2. Create a text file that will hold the integers and name it as **"number.txt"**.
 
@@ -27,7 +27,12 @@ https://user-images.githubusercontent.com/129570700/233840895-4d7c1166-f942-4966
 *Sample picture*
 ![P-1](https://user-images.githubusercontent.com/129570700/233842428-54c7bf2a-e26f-4eb9-8f09-e928e3de5c38.PNG)
 
-## How to run in git bash
+## How to run in git bash 🚀?
+> git clone https://github.com/Laguting/FRS_File-reader-and-separator_-even-or-odd.git
+
+> cd FRS_File-reader-and-seperator_-even-or-odd/
+
+> python FRS
 
 # INSTALLATIONS
 
