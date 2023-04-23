@@ -1,5 +1,5 @@
 https://user-images.githubusercontent.com/129570700/233840895-4d7c1166-f942-4966-8f02-5abb8de2861d.mp4
-> A Python program called FRS: File Reader and Separator which read the content of a file, it should be integers. That way it can separate the even numbers from odd numbers and write it to its respective text file.
+> 💻 A Python program called FRS: File Reader and Separator which read the content of a file, it should be integers. That way it can separate the even numbers from odd numbers and write it to its respective text file.
 
 # DESCRIPTIONS 📝
 - The program has even.txt and odd.txt files. Which holds the even and odd integers generated from reading the number.txt file.
@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/129570700/233840895-4d7c1166-f942-4966
 
 # CREDITS  👩
 - Developed by Maricon Jane G. Laguting from BSCpE 1-4
-### CONTACTS
+### CONTACTS 📞
 - *Facebook*: https://www.facebook.com/mariconjaneglaguting?mibextid=ZbWKwL
 - *Number*: (TM) +63 926 395 2915
 - *Gmail*: lagutingmariconjaneg@gmail.com
