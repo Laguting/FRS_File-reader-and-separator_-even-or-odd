@@ -12,11 +12,17 @@ https://user-images.githubusercontent.com/129570700/233840895-4d7c1166-f942-4966
 2. Create a text file that will hold the integers and name it as **"number.txt"**.
 
 *Sample picture*
+
 ![P-1 1](https://user-images.githubusercontent.com/129570700/233843581-916c3950-d36c-4d40-a475-6ae962520ea2.PNG)
 
 3. Create a text file that will contain the **even** and **odd** numbers.
-4. Install the **pyfiglet**, **termcolor**, and **tqdm** for the features it has.
-5. Run the program
+
+*Sample picture*
+
+![P-1 2](https://user-images.githubusercontent.com/129570700/233844444-afdecff0-a1a7-4c47-8420-b2b50681bdb3.PNG)
+
+5. Install the **pyfiglet**, **termcolor**, and **tqdm** for the features it has.
+6. Run the program
 
 *Sample picture*
 ![P-1](https://user-images.githubusercontent.com/129570700/233842428-54c7bf2a-e26f-4eb9-8f09-e928e3de5c38.PNG)
