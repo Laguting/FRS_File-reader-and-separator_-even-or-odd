@@ -44,3 +44,6 @@ https://user-images.githubusercontent.com/129570700/233840895-4d7c1166-f942-4966
 - *Facebook*: https://www.facebook.com/mariconjaneglaguting?mibextid=ZbWKwL
 - *Number*: (TM) +63 926 395 2915
 - *Gmail*: lagutingmariconjaneg@gmail.com
+
+
+#(づ๑•ᴗ•๑)づ♡
