@@ -34,7 +34,13 @@ https://user-images.githubusercontent.com/129570700/233840895-4d7c1166-f942-4966
 
 > python FRS
 
-# INSTALLATIONS
+# INSTALLATIONS 📥
+- **This program used two installations namely Pyfiglet, Termcolor, and Tqdm. Install it by typing the following in the terminal.**
+> pip install pyfiglet, termcolor, tqdm
 
-# CREDITS
-## CONTACTS
+# CREDITS  👩
+- Developed by Maricon Jane G. Laguting from BSCpE 1-4
+### CONTACTS
+- *Facebook*: https://www.facebook.com/mariconjaneglaguting?mibextid=ZbWKwL
+- *Number*: (TM) +63 926 395 2915
+- *Gmail*: lagutingmariconjaneg@gmail.com
