@@ -39,7 +39,7 @@ with open("odd.txt", "a") as odd_file:
 
 #Good Bye
 good_bye = Figlet(font = "bubble")
-print(colored(ou_tro.renderText("Thank you for availing our service!"), "yellow")) 
+print(colored(good_bye.renderText("Thank you for availing our service!"), "yellow")) 
 closing = Figlet(font = "isometric3")
 print(colored(closing.renderText("Closing..."), "white"))
 print("\U0001F971" * 45)
